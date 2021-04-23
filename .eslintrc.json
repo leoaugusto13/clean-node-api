@@ -1,0 +1,6 @@
+{
+    "extends": "standard-with-typerscript",
+    "parserOptions": {
+        "project": "./tsconfig.json"
+    }
+}
