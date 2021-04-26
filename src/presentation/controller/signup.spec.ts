@@ -29,4 +29,3 @@ describe('SignUp Controller', () => {
         expect(httpResponse.body).toEqual(new Error('Missing param: email'))
     })
 })
-})
